@@ -2,7 +2,7 @@
 
 Proyek ini bertujuan untuk memprediksi apakah seorang pelanggan akan memesan makanan online lagi berdasarkan data historis dan karakteristik pelanggan.
 
-![Deskripsi gambar]([path/ke/gambar.png](https://github.com/YunicoArdianPradana/Online_Food_Order/blob/master/ss_hasil_prediksi.png))
+![Deskripsi gambar](https://github.com/YunicoArdianPradana/Online_Food_Order/blob/8db3c0913f4f8dc90c93565c87e850d517865f69/ss_hasil_prediksi.png)
 
 ## Fitur
 
